@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="120"><g transform="matrix(1 0 0 1 15 27)" id="id-a488a6"  >
+<rect style="stroke: rgb(255,240,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(17,255,0); fill-rule: nonzero; opacity: 1;"  x="-15" y="-15" rx="0" ry="0" width="30" height="30" />
+</g>
+<g transform="matrix(1 0 0 1 15 90)" id="id-f79609"  >
+<rect style="stroke: rgb(255,240,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(17,255,0); fill-rule: nonzero; opacity: 1;"  x="-15" y="-15" rx="0" ry="0" width="30" height="30" />
+</g>
+<g transform="matrix(1 0 0 1 15.5 103.5)" id="id-979c46"  >
+<path d="M -12 0 A 12 12 0 0 1 12 0" style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(17,255,0); fill-rule: nonzero; opacity: 1;"   />
+</g>
+<g transform="matrix(1 0 0 1 15.5 13.5)" id="id-e46f6e"  >
+<path d="M 12 0 A 12 12 0 0 1 -12 0" style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(17,255,0); fill-rule: nonzero; opacity: 1;"   />
+</g>
+<g transform="matrix(1 0 0 1 15.5 33)" id="id-32d23c"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(17,255,0); fill-rule: nonzero; opacity: 1;"  points="0,6.5 0,-6.5 " />
+</g>
+<g transform="matrix(1 0 0 1 15.5 83)" id="id-9c8835"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(17,255,0); fill-rule: nonzero; opacity: 1;"  points="0,6.5 0,-6.5 " />
+</g>
+</svg>

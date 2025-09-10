@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="49"><g transform="matrix(1 0 0 1 22.5 22.5)" id="id-4219b7"  >
+<rect style="stroke: rgb(255,240,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-22.5" y="-22.5" rx="0" ry="0" width="45" height="45" />
+</g>
+<g transform="matrix(1 0 0 1 23 24.5)" id="id-b1cd46"  >
+<polygon style="stroke: rgb(255,0,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="0,-22.5 0,22.5 " />
+</g>
+<g transform="matrix(1 0 0 1 23 35)" id="id-fd2369"  >
+<polygon style="stroke: rgb(255,0,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="10,0 -10,0 " />
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="82"><g transform="matrix(1 0 0 1 38.5 41)" id="id-1b7a33"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(157,157,157); fill-rule: nonzero; opacity: 1;"  x="-37.5" y="-40" rx="0" ry="0" width="75" height="80" />
+</g>
+<g transform="matrix(1 0 0 1 38 28)" id="id-2febbd"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,180,255); fill-rule: nonzero; opacity: 1;"  x="-32.5" y="-22.5" rx="0" ry="0" width="65" height="45" />
+</g>
+<g transform="matrix(1 0 0 1 37.02 28.47)" style="" id="id-bf0bf8"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="18" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18" y="-6.14" >RET</tspan><tspan x="-21.52" y="17.45" >615B</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 12.5 64.5)" id="id-6be893"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,255,255); fill-rule: nonzero; opacity: 1;"  x="-7" y="-7" rx="0" ry="0" width="14" height="14" />
+</g>
+<g transform="matrix(1 0 0 1 29.5 64.5)" id="id-b08d82"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,128,0); fill-rule: nonzero; opacity: 1;"  x="-7" y="-7" rx="0" ry="0" width="14" height="14" />
+</g>
+<g transform="matrix(1 0 0 1 46.5 64.5)" id="id-4bc238"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-7" y="-7" rx="0" ry="0" width="14" height="14" />
+</g>
+<g transform="matrix(1 0 0 1 63.5 64.5)" id="id-36d051"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,255,255); fill-rule: nonzero; opacity: 1;"  x="-7" y="-7" rx="0" ry="0" width="14" height="14" />
+</g>
+<g transform="matrix(1 0 0 1 12.5 65)" id="id-855341"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="6.5,0 -6.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 29 64.5)" id="id-046683"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="0,-6.5 0,6.5 " />
+</g>
+<g transform="matrix(1 0 0 1 63.5 65)" id="id-b2d78d"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="6.5,0 -6.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 47 64)" id="id-af067d"  >
+<circle style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="5" />
+</g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="503" height="703"><g transform="matrix(1 0 0 1 251.5 351.5)" id="id-71edf1"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  x="-250" y="-350" rx="0" ry="0" width="500" height="700" />
+</g>
+<g transform="matrix(1 0 0 1 251.5 351.5)" id="id-020227"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-350 0,350 " />
+</g>
+<g transform="matrix(1 0 0 1 93 41.63)" style="" id="id-0c1c3e"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="25" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-37.5" y="7.85" >無同步</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 139.5 106.06)" style="" id="id-0d839f"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="24" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-84" y="7.54" >逆變器供應負載</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 115.5 171.06)" style="" id="id-84b5e4"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="24" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="7.54" >保險絲熔斷</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 147.5 235.5)" style="" id="id-646a41"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-92" y="7.23" >旁路電源供應負載</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 136 300.5)" style="" id="id-44b45e"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-80.5" y="7.23" >逆變器電源切除</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 113 365.5)" style="" id="id-63b097"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-57.5" y="7.23" >逆變器故障</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 124.5 430.5)" style="" id="id-a5d6f0"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-69" y="7.23" >直流輸入低壓</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 101.5 495.5)" style="" id="id-b921dc"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-46" y="7.23" >溫度過高</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 124.5 560.5)" style="" id="id-75d240"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-69" y="7.23" >旁路電源異常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 385.5 41.63)" style="" id="id-20bc70"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="25" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-75" y="7.85" >直流電源告警</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 382.5 106.06)" style="" id="id-14a220"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="24" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-72" y="7.54" >直流電源正常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 382.5 171.06)" style="" id="id-918484"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="24" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-72" y="7.54" >交流電源告警</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 379.5 235.5)" style="" id="id-2f6d83"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-69" y="7.23" >交流電源正常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 368 300.5)" style="" id="id-c90bda"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-57.5" y="7.23" >逆變器告警</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 368 365.5)" style="" id="id-ac3617"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-57.5" y="7.23" >逆變器正常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 356.5 430.5)" style="" id="id-89f531"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-46" y="7.23" >同步鎖定</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 379.5 495.5)" style="" id="id-b9cd8c"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-69" y="7.23" >自動旁路開關</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 356.5 560.5)" style="" id="id-15319c"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-46" y="7.23" >禁止切換</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 368 625.5)" style="" id="id-2afe7d"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-57.5" y="7.23" >輸出過電流</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 124.5 625.5)" style="" id="id-240d3f"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="23" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-69" y="7.23" >風扇熔絲熔斷</tspan></text>
+</g>
+</svg>

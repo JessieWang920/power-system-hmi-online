@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="682" height="902"><g transform="matrix(1 0 0 1 356 451)" id="id-1702361954000-0"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: 10 10; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x="-325" y="-450" rx="0" ry="0" width="650" height="900" />
+</g>
+<g transform="matrix(1 0 0 1 356 451)" id="id-1702362069375-2"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: 10 10; stroke-linecap: butt; stroke-dashoffset: 5; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="325,0 -325,0 " />
+</g>
+<g transform="matrix(1 0 0 1 9 267)" id="id-1702361999169-1"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="-9,12 -9,-12 9,0 " />
+</g>
+<g transform="matrix(1 0 0 1 131.5 21.5)" id="id-1702362186934-3"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x="-100" y="-20" rx="0" ry="0" width="200" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 128.3 19.63)" style="" id="id-1702362213555-4"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="25" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-67.8" y="7.85" >DC-Charger 1</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 131.5 471.5)" id="id-1702362299041-5"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x="-100" y="-20" rx="0" ry="0" width="200" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 128.3 469.63)" style="" id="id-1702362323949-6"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="25" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-67.8" y="7.85" >DC-Charger 2</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 9 562)" id="id-1702362631443-0"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="-9,12 -9,-12 9,0 " />
+</g>
+<g transform="matrix(1 0 0 1 334.5 267)" id="id-1702362681878-1"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="317.5,0 -317.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 334.5 562)" id="id-1702362841811-2"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="317.5,0 -317.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 652 549.5)" id="id-1702362919241-4"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(110,170,220); fill-rule: nonzero; opacity: 1;"  points="0,-282.5 0,282.5 " />
+</g>
+<g transform="matrix(1 0 0 1 652 827.5)" id="id-1702363280008-0"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="10,-7.5 0,7.5 -10,-7.5 " />
+</g>
+<g transform="matrix(1 0 0 1 150.5 83.8)" style="" id="id-1702363726935-4"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-80" y="6.28" >交流輸入電源正常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 130.5 113.8)" style="" id="id-1702363792729-5"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >直流輸出正常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 130.5 143.8)" style="" id="id-1702363824186-6"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >電池組放電中</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 344.8 83.8)" style="" id="id-1702363942832-10"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-84.3" y="6.28" >初始充電/手動模式</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 320.5 113.8)" style="" id="id-1702363979647-11"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >快速充電模式</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 320.5 143.8)" style="" id="id-1702363999421-12"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >浮動充電模式</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 442 167)" id="id-1702364349416-13"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,192,192); fill-rule: nonzero; opacity: 1;"  points="0,-100 0,100 " />
+</g>
+<g transform="matrix(1 0 0 1 532 67)" id="id-1702364483984-15"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(110,170,220); fill-rule: nonzero; opacity: 1;"  points="90,0 -90,0 " />
+</g>
+<g transform="matrix(1 0 0 1 622 99.5)" id="id-1702364516694-16"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,192,192); fill-rule: nonzero; opacity: 1;"  points="0,-32.5 0,32.5 " />
+</g>
+<g transform="matrix(1 0 0 1 442 677)" id="id-1702364603638-17"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,192,192); fill-rule: nonzero; opacity: 1;"  points="0,-115 0,115 " />
+</g>
+<g transform="matrix(1 0 0 1 517 792)" id="id-1702364703692-18"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(110,170,220); fill-rule: nonzero; opacity: 1;"  points="75,0 -75,0 " />
+</g>
+<g transform="matrix(1 0 0 1 592 757)" id="id-1702364950049-20"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,192,192); fill-rule: nonzero; opacity: 1;"  points="0,-35 0,35 " />
+</g>
+<g transform="matrix(1 0 0 1 150.5 781.8)" style="" id="id-1702366102098-0"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-80" y="6.28" >交流輸入電源正常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 130.5 811.8)" style="" id="id-1702366140915-1"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >直流輸出正常</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 130.5 841.8)" style="" id="id-1702366155506-2"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >電池組放電中</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 344.8 781.8)" style="" id="id-1702366177601-3"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-84.3" y="6.28" >初始充電/手動模式</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 320.5 811.8)" style="" id="id-1702366188697-4"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >快速充電模式</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 320.5 841.8)" style="" id="id-1702366194272-5"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60" y="6.28" >浮動充電模式</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 442.5 108)" id="id-1702366275098-6"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  x="-7.5" y="-17" rx="0" ry="0" width="15" height="34" />
+</g>
+<g transform="matrix(1 0 0 1 442.5 99.5)" id="id-1702366361638-7"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-7.5" y="-8.5" rx="0" ry="0" width="15" height="17" />
+</g>
+<g transform="matrix(1 0 0 1 442.5 748)" id="id-1702366387766-8"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  x="-7.5" y="-17" rx="0" ry="0" width="15" height="34" />
+</g>
+<g transform="matrix(1 0 0 1 442.5 739.5)" id="id-1702366409711-9"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-7.5" y="-8.5" rx="0" ry="0" width="15" height="17" />
+</g>
+<g transform="matrix(1 0 0 1 238 266.5)" id="id-1702366481855-0"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  x="-17" y="-7.5" rx="0" ry="0" width="34" height="15" />
+</g>
+<g transform="matrix(1 0 0 1 229.5 266.5)" id="id-1702366600571-0"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-8.5" y="-7.5" rx="0" ry="0" width="17" height="15" />
+</g>
+<g transform="matrix(1 0 0 1 238 562.5)" id="id-1702366618790-1"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  x="-17" y="-7.5" rx="0" ry="0" width="34" height="15" />
+</g>
+<g transform="matrix(1 0 0 1 229.5 562.5)" id="id-1702366646329-2"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-8.5" y="-7.5" rx="0" ry="0" width="17" height="15" />
+</g>
+<g transform="matrix(1 0 0 1 387 267)" id="id-1702367138326-1"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="35,0 -35,0 " />
+</g>
+<g transform="matrix(1 0 0 1 387.5 267)" id="id-1702367257076-2"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,0,128); fill-rule: nonzero; opacity: 1;"  points="-22.5,25 -22.5,-25 22.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 407.5 266.5)" id="id-1702367639369-4"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-25 0,25 " />
+</g>
+<g transform="matrix(1 0 0 1 387 562)" id="id-1702368231861-0"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="35,0 -35,0 " />
+</g>
+<g transform="matrix(1 0 0 1 387.5 562)" id="id-1702368250583-1"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,0,128); fill-rule: nonzero; opacity: 1;"  points="-22.5,25 -22.5,-25 22.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 407 561)" id="id-1702368270752-2"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-25 0,25 " />
+</g>
+<g transform="matrix(1 0 0 1 502 267)" id="id-1702368520043-3"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="40,0 -40,0 " />
+</g>
+<g transform="matrix(1 0 0 1 502.5 267)" id="id-1702368805396-0"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,0,128); fill-rule: nonzero; opacity: 1;"  points="-22.5,25 -22.5,-25 22.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 522.5 266.5)" id="id-1702368846647-2"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-25 0,25 " />
+</g>
+<g transform="matrix(1 0 0 1 533.5 250)" id="id-1702368924546-3"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-17.5 0,17.5 " />
+</g>
+<g transform="matrix(1 0 0 1 471.5 250)" id="id-1702368975712-4"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-17.5 0,17.5 " />
+</g>
+<g transform="matrix(1 0 0 1 479 232.5)" id="id-1702369061865-5"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="7.5,0 -7.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 523.5 232.5)" id="id-1702369073080-6"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="10,0 -10,0 " />
+</g>
+<g transform="matrix(1 0 0 1 502.5 226)" id="id-1702369104390-7"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="10,7.5 -10,-7.5 " />
+</g>
+<g transform="matrix(1 0 0 1 502 562)" id="id-1702369508891-0"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="40,0 -40,0 " />
+</g>
+<g transform="matrix(1 0 0 1 502.5 562)" id="id-1702369553058-1"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,0,128); fill-rule: nonzero; opacity: 1;"  points="-22.5,25 -22.5,-25 22.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 522.5 561.5)" id="id-1702369649481-2"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-25 0,25 " />
+</g>
+<g transform="matrix(1 0 0 1 533.5 545)" id="id-1702369674280-3"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-17.5 0,17.5 " />
+</g>
+<g transform="matrix(1 0 0 1 471.5 545)" id="id-1702369685695-4"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-17.5 0,17.5 " />
+</g>
+<g transform="matrix(1 0 0 1 479 527.5)" id="id-1702369703047-5"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="7.5,0 -7.5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 523.5 527.5)" id="id-1702369710517-6"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="10,0 -10,0 " />
+</g>
+<g transform="matrix(1 0 0 1 502.5 521)" id="id-1702369723753-7"  >
+<polygon style="stroke: rgb(128,0,128); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="10,7.5 -10,-7.5 " />
+</g>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="500"><g transform="matrix(1 0 0 1 425 250)" id="id-1702878746681-0"  >
+<rect style="stroke: rgb(255,240,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(225,225,225); fill-rule: nonzero; opacity: 1;"  x="-425" y="-250" rx="0" ry="0" width="850" height="500" />
+</g>
+<g transform="matrix(1 0 0 1 179.53 64.06)" style="" id="id-1702879068590-11"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-119.03" y="7.54" >HV Winding Temp Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 176.23 104.06)" style="" id="id-1702879848486-12"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-115.73" y="7.54" >LV Winding Temp Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 135.24 144.06)" style="" id="id-1702879855216-13"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-74.74" y="7.54" >Oil Temp Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 165.46 184.06)" style="" id="id-1702879881105-14"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-104.96" y="7.54" >Buchholz Relay Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 209.69 224.06)" style="" id="id-1702879896020-15"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-149.19" y="7.54" >Positive airway pressure Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 173.22 264.06)" style="" id="id-1702879992506-16"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.72" y="7.54" >Cooling Fan Trip_Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 209.18 304.06)" style="" id="id-1702880033629-17"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-148.68" y="7.54" >Core Grounding Current Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 232.6 344.06)" style="" id="id-1702880042629-18"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-172.1" y="7.54" >AC 380V Main Source Failure Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 243.55 384.06)" style="" id="id-1702880057191-19"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-183.05" y="7.54" >AC 220V Control Source Failure Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 244.07 464.06)" style="" id="id-1702880074103-20"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-183.57" y="7.54" >DC 110V Control Source Failure Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 596.2 64.06)" style="" id="id-1702880127807-23"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-95.7" y="7.54" >Low Oil Level Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 604.67 104.06)" style="" id="id-1702880368329-30"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-104.17" y="7.54" >26Q 油溫度95度 Trip</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 661.36 144.06)" style="" id="id-1702880388389-31"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-160.86" y="7.54" >26W 一次側線圈溫度110度 Trip</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 661.36 184.06)" style="" id="id-1702880406327-32"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-160.86" y="7.54" >26W 二次側線圈溫度110度 Trip</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 591.82 224.06)" style="" id="id-1702880418859-33"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-91.32" y="7.54" >96D 釋壓裝置 Trip</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 590.96 264.06)" style="" id="id-1702880430521-34"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-90.46" y="7.54" >96B 布氏電譯 Trip</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 614.63 304.06)" style="" id="id-1702880440451-35"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-114.13" y="7.54" >96P 衝擊油壓電譯 Trip</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 640.5 370.5)" id="id-1702882143165-1"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(225,225,225); fill-rule: nonzero; opacity: 1;"  x="-190" y="-20" rx="0" ry="0" width="380" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 640.5 419.5)" id="id-1702882323279-2"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(225,225,225); fill-rule: nonzero; opacity: 1;"  x="-190" y="-20" rx="0" ry="0" width="380" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 640.5 470.5)" id="id-1702882336986-3"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(225,225,225); fill-rule: nonzero; opacity: 1;"  x="-190" y="-20" rx="0" ry="0" width="380" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 503.31 371.06)" style="" id="id-1702882382942-5"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.81" y="7.54" >Oil Temp</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 547.6 421.06)" style="" id="id-1702882429879-6"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-87.1" y="7.54" >HV Winding Temp</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 544.31 471.06)" style="" id="id-1702882458295-7"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-83.81" y="7.54" >LV Winding Temp</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 760.96 371.06)" style="" id="id-1702882518091-8"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.46" y="7.54" >°C</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 760.96 421.06)" style="" id="id-1702882542699-9"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.46" y="7.54" >°C</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 760.96 471.06)" style="" id="id-1702882552265-10"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.46" y="7.54" >°C</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 243.55 424.06)" style="" id="id-1703216297019-0"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-183.05" y="7.54" >AC 110V Control Source Failure Alarm</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="567" height="239"><g transform="matrix(1 0 0 1 284.5 119.5)" id="id-1704873553296-0"  >
+<rect style="stroke: rgb(11,147,218); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(245,255,250); fill-rule: nonzero; opacity: 1;"  x="-281.5" y="-117.5" rx="0" ry="0" width="563" height="235" />
+</g>
+<g transform="matrix(1 0 0 1 284 54)" id="id-1704873626563-1"  >
+<rect style="stroke: rgb(176,176,176); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(11,147,218); fill-rule: nonzero; opacity: 1;"  x="-282" y="-15" rx="0" ry="0" width="564" height="30" />
+</g>
+<g transform="matrix(1 0 0 1 284.5 53.8)" style="" id="id-1704873753258-2"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-265" y="6.28" style="white-space: pre; ">  設備                  描述                            數值                          單位</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 115 138.5)" id="id-1704873835641-3"  >
+<polygon style="stroke: rgb(176,176,176); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="0,99.5 0,-99.5 " />
+</g>
+<g transform="matrix(1 0 0 1 256 138.5)" id="id-1704873940985-4"  >
+<polygon style="stroke: rgb(176,176,176); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="0,99.5 0,-99.5 " />
+</g>
+<g transform="matrix(1 0 0 1 496 138.5)" id="id-1704873960328-5"  >
+<polygon style="stroke: rgb(176,176,176); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="0,99.5 0,-99.5 " />
+</g>
+<g transform="matrix(1 0 0 1 58.79 153.06)" style="" id="id-1704874012867-6"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(11,147,218); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-47.29" y="7.54" >TATUNG</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 340 111)" id="id-1704874067655-7"  >
+<polygon style="stroke: rgb(176,176,176); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="225,0 -225,0 " />
+</g>
+<g transform="matrix(1 0 0 1 340 151)" id="id-1704874154567-8"  >
+<polygon style="stroke: rgb(176,176,176); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="225,0 -225,0 " />
+</g>
+<g transform="matrix(1 0 0 1 340 191)" id="id-1704874159722-9"  >
+<polygon style="stroke: rgb(176,176,176); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  points="225,0 -225,0 " />
+</g>
+<g transform="matrix(1 0 0 1 184.56 92.15)" style="" id="id-1704874204461-10"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="12" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-64.06" y="-4.1" >PM Total Current Value</tspan><tspan x="-64.06" y="11.63" >(錶計電流)</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 152.98 132.14)" style="" id="id-1704874304012-11"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="12" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.48" y="-4.1" >PM Voltage</tspan><tspan x="-32.48" y="11.63" >(錶計電壓)</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 148.78 172.14)" style="" id="id-1704874352716-12"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="12" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.28" y="-4.1" >PM Power</tspan><tspan x="-28.28" y="11.63" >(錶計功率)</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 165.76 212.14)" style="" id="id-1704874374732-13"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="12" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-45.26" y="-4.1" >PM Total Energy</tspan><tspan x="-45.26" y="11.63" >(錶計發電量)</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 526.95 218.8)" style="" id="id-1704874409980-14"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.45" y="6.28" >kWh</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 520.86 178.8)" style="" id="id-1704874453147-15"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.36" y="6.28" >kW</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 512.43 138.8)" style="" id="id-1704874467166-16"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.93" y="6.28" >A</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 512.43 98.8)" style="" id="id-1704874476628-17"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.93" y="6.28" >A</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 544.5 21)" id="id-1704874525601-18"  >
+<polygon style="stroke: rgb(255,0,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="12.5,10 -12.5,-10 " />
+</g>
+<g transform="matrix(1 0 0 1 544.5 21)" id="id-1704874578648-19"  >
+<polygon style="stroke: rgb(255,0,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="12.5,-10 -12.5,10 " />
+</g>
+</svg>

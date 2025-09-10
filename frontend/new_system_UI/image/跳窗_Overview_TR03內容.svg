@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="210"><g transform="matrix(1 0 0 1 175 105)" id="id-1702973150895-0"  >
+<rect style="stroke: rgb(255,240,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(225,225,225); fill-rule: nonzero; opacity: 1;"  x="-175" y="-105" rx="0" ry="0" width="350" height="210" />
+</g>
+<g transform="matrix(1 0 0 1 187.17 64.06)" style="" id="id-1702973169966-1"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-126.67" y="7.54" >Fan Power Loss/Abnormal</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 114.98 104.06)" style="" id="id-1702973300947-2"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-54.48" y="7.54" >TR H Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 122.46 144.06)" style="" id="id-1702973312145-3"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-61.96" y="7.54" >TR HH Alarm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 109.78 184.06)" style="" id="id-1702973318595-4"  >
+		<text xml:space="preserve" font-family="Calibri" font-size="24" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-49.28" y="7.54" >TR Fan On</tspan></text>
+</g>
+</svg>

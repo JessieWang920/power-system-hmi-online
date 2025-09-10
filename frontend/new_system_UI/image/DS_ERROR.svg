@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="46"><g transform="matrix(1 0 0 1 22.5 22.5)" id="id-ee51d7"  >
+<rect style="stroke: rgb(255,240,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,0); fill-rule: nonzero; opacity: 1;"  x="-22.5" y="-22.5" rx="0" ry="0" width="45" height="45" />
+</g>
+<g transform="matrix(1 0 0 1 22.3 23.8)" style="" id="id-2a4c54"  >
+		<text xml:space="preserve" font-family="Microsoft JhengHei" font-size="20" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,64,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-4.8" y="6.28" >?</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 23 7)" id="id-1ca0b4"  >
+<polygon style="stroke: rgb(0,64,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 23 39)" id="id-f2ab9b"  >
+<polygon style="stroke: rgb(0,64,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 23 35)" id="id-b2186c"  >
+<polygon style="stroke: rgb(0,64,128); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,0); fill-rule: nonzero; opacity: 1;"  points="10,0 -10,0 " />
+</g>
+</svg>

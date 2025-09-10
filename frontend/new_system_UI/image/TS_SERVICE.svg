@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="194"><g transform="matrix(1 0 0 1 22.5 52.5)" id="id-18a8a1"  >
+<rect style="stroke: rgb(255,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-22.5" y="-22.5" rx="0" ry="0" width="45" height="45" />
+</g>
+<g transform="matrix(1 0 0 1 22.5 142.5)" id="id-54ebae"  >
+<rect style="stroke: rgb(255,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-22.5" y="-22.5" rx="0" ry="0" width="45" height="45" />
+</g>
+<g transform="matrix(1 0 0 1 23.5 23.5)" id="id-4dfa15"  >
+<path d="M 19.733545036504076 7.182423009839043 A 21 21 0 0 1 -19.733545036504076 7.182423009839047" style="stroke: rgb(128,255,0); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"   />
+</g>
+<g transform="matrix(1 0 0 1 23.5 170.5)" id="id-ec7edb"  >
+<path d="M -19.733545036504076 -7.182423009839042 A 21 21 0 0 1 19.733545036504076 -7.182423009839041" style="stroke: rgb(128,255,0); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"   />
+</g>
+<g transform="matrix(1 0 0 1 24 59)" id="id-3673d0"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-15 0,15 " />
+</g>
+<g transform="matrix(1 0 0 1 24 135)" id="id-fede73"  >
+<polygon style="stroke: rgb(0,255,0); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-15 0,15 " />
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="57"><g transform="matrix(1 0 0 1 26 28.5)" id="id-04bdc5"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(157,157,157); fill-rule: nonzero; opacity: 1;"  x="-25" y="-27.5" rx="0" ry="0" width="50" height="55" />
+</g>
+<g transform="matrix(1 0 0 1 26.5 20.5)" id="id-34c364"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,192,0); fill-rule: nonzero; opacity: 1;"  x="-20" y="-15" rx="0" ry="0" width="40" height="30" />
+</g>
+<g transform="matrix(1 0 0 1 7.5 45.5)" id="id-412eca"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="5" />
+</g>
+<g transform="matrix(1 0 0 1 19.5 45.5)" id="id-ca1a70"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="5" />
+</g>
+<g transform="matrix(1 0 0 1 31.5 45.5)" id="id-72f66b"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="5" />
+</g>
+<g transform="matrix(1 0 0 1 43.5 45.5)" id="id-e02f03"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="5" />
+</g>
+<g transform="matrix(1 0 0 1 27.33 13.97)" style="" id="id-663e4b"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="15" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.83" y="4.71" >PML</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 26.18 27.97)" style="" id="id-00cea5"  >
+		<text xml:space="preserve" font-family="sans-serif" font-size="15" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.68" y="4.71" >7800</tspan></text>
+</g>
+</svg>

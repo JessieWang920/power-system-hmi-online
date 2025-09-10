@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="60"><g transform="matrix(1 0 0 1 40 30)" id="id-af310c"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  x="-40" y="-30" rx="0" ry="0" width="80" height="60" />
+</g>
+<g transform="matrix(1 0 0 1 40 30)" id="id-cddf38"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="37.5,-27.5 -37.5,27.5 " />
+</g>
+<g transform="matrix(1 0 0 1 22.5 10.5)" id="id-894c3e"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="10,0 -10,0 " />
+</g>
+<g transform="matrix(1 0 0 1 22.5 22.5)" id="id-a67765"  >
+<polygon style="stroke: rgb(255,255,255); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,0); fill-rule: nonzero; opacity: 1;"  points="10,0 -10,0 " />
+</g>
+<g transform="matrix(1 0 0 1 49.5 45.5)" id="id-72b8f8"  >
+<path d="M -7 0 A 7 7 0 0 1 7 0" style="stroke: rgb(255,255,255); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"   />
+</g>
+<g transform="matrix(-1 0 0 -1 63.5 43.5)" id="id-20b161"  >
+<path d="M -7 0 A 7 7 0 0 1 7 0" style="stroke: rgb(255,255,255); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"   />
+</g>
+</svg>
